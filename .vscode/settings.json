@@ -1,0 +1,6 @@
+{
+    // vscode保存时自动格式化代码
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
